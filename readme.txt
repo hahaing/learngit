@@ -7,3 +7,4 @@ the sixth commit
 add dev branch
 create a branch is simple
 add someting
+merge is simple
