@@ -5,4 +5,4 @@ the forth commit
 the fifth commit
 the sixth commit
 add dev branch
-create a new branch is quick & simple
+create a branch is simple
